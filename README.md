@@ -1,2 +1,2 @@
 # AiDD-aikonda-lab01
-“My first AIDD GitHub repo
+My first AIDD GitHub repo
